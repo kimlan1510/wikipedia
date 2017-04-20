@@ -1,0 +1,17 @@
+.col-md-2{
+margin-right: 2px;
+text-align: left;
+}
+.welcome{
+  text-align: left;
+}
+.row h3{
+text-align: center;
+padding-top: 0px;
+}
+
+.panel-body{
+background-color: #8bc5ef;
+shape-margin: 2px;
+
+}
